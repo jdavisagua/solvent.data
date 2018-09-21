@@ -1,0 +1,17 @@
+Package: solvent.data
+Title: Chemical Data for Common Solvents
+Version: 0.0.0.9
+Authors@R: 
+    person(given = "Justin",
+           family = "Davis",
+           role = c("aut", "cre"),
+           email = "jdavis.agua@gmail.com")
+Description: Provides a dataset containing chemical information for a list of
+common solvents.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.0
