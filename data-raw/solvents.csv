@@ -1,0 +1,77 @@
+# Chemical data for common solvents
+#
+# Schema:
+#   cid PubChem ID (unique)
+#   name Name
+#   bp Boiling point in °C
+#   solubility Water solubility in mg/l at 25°C
+#
+# Source:
+#   Kim S, Thiessen PA, Bolton EE, Chen J, Fu G, Gindulyte A, Han L, He J,
+#   He S, Shoemaker BA, Wang J, Yu B, Zhang J, Bryant SH. PubChem Substance
+#   and Compound databases. Nucleic Acids Res. 2016 Jan 4; 44(D1):D1202-13.
+#   Epub 2015 Sep 22 [PubMed PMID: 26400175] doi: 10.1093/nar/gkv951.
+#
+"cid","name","bp","solubility"
+6428,"1,1,2-trichlorotrifluoroethane",47.7,"170"
+31275,"1,4-dioxane",101.2,"miscible"
+8019,"ethylene glycol monomethyl ether",124.1,"miscible"
+3776,"2-propanol",82.3,"miscible"
+180,"acetone",56.08,"miscible"
+6342,"acetonitrile",81.6,"miscible"
+7964,"chlorobenzene",131.6,"499"
+6212,"chloroform",61.17,"7950"
+8078,"cyclohexane",80.7,"55"
+9253,"cyclopentane",49.2,"156"
+6344,"dichloromethane",39.75,"13000"
+3283,"diethyl ether",34.6,"60400"
+31374,"N,N-dimethylacetamide",165,"miscible"
+679,"dimethyl sulfoxide",189,"miscible"
+702,"ethanol",78.2,"miscible"
+8857,"ethyl acetate",77.1,"80000"
+11,"ethylene dichloride",83.5,"8600"
+6560,"isobutyl alcohol",108,"85000"
+10907,"2,2,4-trimethylpentane",99.238,"insoluble"
+887,"methanol",64.7,"miscible"
+8034,"methyl isoamyl ketone",144,"5400"
+7909,"methyl isobutyl ketone",116.5,"19000"
+7895,"methyl n-propyl ketone",102.26,"43000"
+31272,"n-butyl acetate",126.1,"5000"
+263,"1-butanol",117.6,"63200"
+8005,"1-chlorobutane",78.5,"insoluble"
+8900,"heptane",98.38,"3.40"
+8058,"hexane",68.73,"9.5"
+8003,"pentane",36,"38"
+1031,"1-propanol",97.2,"miscible"
+6228,"N,N-dimethylformamide",152.8,"miscible"
+7239,"o-dichlorobenzene",180.1,"156"
+7237,"o-xylene",144.5,"180"
+1049,"pyridine",115.2,"miscible"
+8028,"tetrahydrofuran",65,"miscible"
+1140,"toluene",110.6,"526"
+962,"water",99.974,"miscible"
+15413,"methyl t-butyl ether",55,"51000"
+176,"acetic acid",117.9,"miscible"
+241,"benzene",80.08,"1790"
+7505,"benzonitrile",190.7,"2000"
+6568,"2-butanol",99.5,"181000"
+6569,"methyl ethyl ketone",79.59,"22300"
+6386,"t-butyl alcohol",82.3,"miscible"
+6348,"carbon disulfide",46,"2160"
+5943,"carbon tetrachloride",76.8,"1160"
+8150,"diglyme",162,"miscible"
+8071,"ethylene glycol dimethyl ether",85,"miscible"
+174,"ethylene glycol",198,"miscible"
+8179,"diethylene glycol diethyl ether",188,"miscible"
+753,"glycerol",290,"miscible"
+12679,"hexamethylphosphoramide",233,"miscible"
+8054,"ethylene glycol monomethyl ether acetate",145,"miscible"
+7909,"methyl isobutyl ketone",116.5,"19000"
+6560,"isobutyl alcohol",108,"85000"
+13387,"N-methyl-2-pyrrolidone",202,"miscible"
+6375,"nitromethane",101.1,"111000"
+957,"1-octanol",194.7,"540"
+7288,"3-pentanone",101.7,"45890"
+31373,"tetrachloroethylene",121.3,"206"
+7809,"p-xylene",138.3,"165"
+8471,"triethylamine",88.8,"68600"
