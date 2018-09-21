@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "jdavis.agua@gmail.com")
 Description: Provides a dataset containing chemical information for a list of
-common solvents.
+   fcommon solvents.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
