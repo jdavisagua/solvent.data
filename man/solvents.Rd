@@ -3,7 +3,7 @@
 \docType{data}
 \name{solvents}
 \alias{solvents}
-\title{solvents}
+\title{Solvents}
 \format{A data frame with variables:
 cid PubChem ID (unique)
 name Name

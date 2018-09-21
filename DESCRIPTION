@@ -11,6 +11,7 @@ Description: Provides a dataset containing chemical information for a list of
 License: CC0
 Encoding: UTF-8
 LazyData: true
+Depends: R (>= 2.10)
 Suggests: 
     testthat
 Roxygen: list(markdown = TRUE)
