@@ -1,7 +1,7 @@
 # Chemical data for common solvents
 #
 # Schema:
-#   cid PubChem ID (unique)
+#   cid PubChem CID (unique)
 #   name Name
 #   bp Boiling point in °C
 #   solubility Water solubility in mg/l at 25°C
