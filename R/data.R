@@ -1,4 +1,4 @@
-#' solvents
+#' Solvents
 #'
 #' Chemical data for common solvents
 #'
